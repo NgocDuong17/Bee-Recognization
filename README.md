@@ -1,2 +1,2 @@
-# Bee-Recognization
+# Bee-Detection
 A datacamp Project that I did
